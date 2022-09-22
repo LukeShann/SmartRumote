@@ -13,14 +13,14 @@ Just look into working_prototype/bin/tv_remote
 Planned features
 ----------------
 
-* Scripting API to combine single commands to complexer behaviour
+* Scripting API to combine single commands to more complex behavior
 * Interactive mode to make the keyboard your remote
-* Full feature set as in the samsung remote iphone and android apps
+* Full feature set as in the samsung remote, iphone and android apps
 
 Contributing to SmartRumote
 ===========================
 
-If you also own a Samsung Smart TV, it would be great if you contibute to this project.
+If you also own a Samsung Smart TV, it would be great if you contribute to this project.
 
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
